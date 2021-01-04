@@ -15,7 +15,7 @@
 ** Add this to your existing Case Study 2 environment  
 ** Be able to walk me through the process of DNS recursion from a client’s (PC) perspective.  
 
-1.	Setup a DNS server on a new VM instance (windows server or linux)  
+1.	Setup a DNS server on a new VM instance (windows or linux)  
 
 2.	Create a GTM/DNS instance 
     - GTM has a public interface where it gets DNS requests and a private interface which leads to the backend DNS server  
@@ -48,7 +48,7 @@
 
 10.	Configure a WIP to return a CNAME rather than an A or AAAA record for a FQDN.  What is a cname, when would that be useful?  
     - What types of DNS records does GTM support?  What are there uses?  
-    - For extra credit create a sub domain.  Ex.  Ask for lab.com, have GTM return a cname which is student.lab.com.  Have student.lab.com pass through GTM to your backend DNS server and respond with one of your www server’s IP’s  
+    - For __extra credit__ create a sub domain.  Ex.  Send a DNS request for lab.com, have GTM return a cname which is student.lab.com.  Have student.lab.com pass through GTM to your backend DNS server and respond with one of your www server’s IP’s  
 
 11.	Configure GTM to resolve and cache.  
     - Run tests from either your DNS server or another client using GTM as the DNS server.   
