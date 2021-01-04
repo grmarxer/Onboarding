@@ -49,3 +49,8 @@ In this case study the student will create a DNS environment and integrate it wi
         - Use DIG to look up FQDN's.  
     - Where is the cache stored in GTM? Can you see the records? When do they expire?  What is the process of recursion?  
     - What is the advantage of having BIG-IP resolve and cache?  
+<br/>  
+
+### Next step  
+
+[Case Study 6 - AFM](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_6-AFM.md)  
