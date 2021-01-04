@@ -48,7 +48,7 @@ __Helpful Links__
 - HTTP Monitor with GET defined  
 - Assign two monitors to the pool and only fail when both monitors are down  
 
-###### HTTPS (Port 8081)
+##### HTTPS (Port 8081)
 - Full proxy  
 - SSL Offload (create a certificate)  
 - SNAT (automap)  
@@ -57,13 +57,13 @@ __Helpful Links__
 - HTTP Monitor without GET defined  
 - Shutdown web service on nodes, can you still ping VIP IP, what does the three-way handshake look like, is this expected?   
 
-###### SSH (Port 22)  
+##### SSH (Port 22)  
 - Full proxy  
 - No SNAT  
 - Round Robin  
 - TCP half-open Monitor  
 
-###### Wildcard listener (0.0.0.0/0)  
+##### Wildcard listener (0.0.0.0/0)  
 - Layer 4 only
 - No SNAT
 - No pool
