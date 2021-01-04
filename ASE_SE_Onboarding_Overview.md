@@ -40,7 +40,7 @@ __Case Study 3 through 6__ builds on the F5 instructor led learning having the s
 
 <br/>  
 
-#### Next step  
+### Next step  
 
 [Case Study 1 - Fundamentals](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_1-Fundamentals.md)  
 
