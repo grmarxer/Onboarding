@@ -1,4 +1,11 @@
 ## Introduction to F5 Documentation and Product Information  
+<br/>    
+
+### Summary  
+
+In this case study we will introduce the student to the F5 product documentation and tools that they will use to support both themselves and their customers. 
+
+<br/>  
 
 1.  Walk the student through https://support.f5.com  
     - Discuss the different sections and where to find the information you are looking for  
@@ -32,4 +39,11 @@
 
 8.  Show the student how to use TRON  
 
-<br/>  
+9.  Walk the student through [dev/central](https://devcentral.f5.com)  
+    - Create a devcentral account  
+    - Introduce the student to the [iRule WIKI](https://clouddocs.f5.com/api/irules/)  
+
+10.  Introduce the student to [iHealth](https://ihealth.f5.com/)  
+    
+    
+    <br/>  
