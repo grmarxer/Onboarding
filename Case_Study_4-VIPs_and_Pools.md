@@ -4,6 +4,8 @@
 
 ### Summary  
 
+In this case study we will create several LTM VIPs and demonstrate load balancing within the ESXi environment using one linux client and two linux servers.  After completion the student should have a good understanding how each VIP works architecturally and where to apply them in a customer environment.  
+
 
 <br/>  
 
@@ -31,6 +33,11 @@ __Note:__ If you have already instantiated linux boxes in the previous section y
 
 ### Create the following VIPs  
 
+__Helpful Links__  
+   - [K55185917: Overview of BIG-IP virtual server types (12.x - 15.x)](https://support.f5.com/csp/article/K55185917)  
+   - [K8082: Overview of TCP connection setup for BIG-IP LTM virtual server types](https://support.f5.com/csp/article/K8082)   
+
+<br/>  
 
 
 HTTP (Port 8080)  

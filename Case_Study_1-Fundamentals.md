@@ -110,8 +110,10 @@ __Note:__ Each instance should be configured to talk to each other over all netw
 8.  Configure NTP and verify  
 
 9.  Using tcpdump verify connectivity over each interface  
-    - Have the student ping between instances and verify connectivity in the tcpdump beginning with the ARP  
-    - Review ARP table  
+    - [Man page of TCPDUMP](https://www.tcpdump.org/manpages/tcpdump.1.html)  
+    - [K411: Overview of packet tracing with the tcpdump utility](https://support.f5.com/csp/article/K411)  
+        - Have the student ping between instances and verify connectivity in the tcpdump beginning with the ARP  
+        - Review ARP table  
 
 10.  Have student change the vswitch attached to the non management interfaces and note results  
 
