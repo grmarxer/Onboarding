@@ -15,6 +15,8 @@ There are five case studies in this guide:
 ##### Case Study 5 - BIG-IP DNS  
 ##### Case Study 6 - AFM  
 
+<br/>  
+
 - The student should complete "ADMINISTERING BIG-IP and CONFIGURING BIG-IP LTM: LOCAL TRAFFIC MANAGER" prior to starting case study 3 and 4.  
 - The student should complete "CONFIGURING BIG-IP DNS (FORMERLY GTM)" prior to starting case study 5.  
 - The student should complete "CONFIGURING BIG-IP AFM: ADVANCED FIREWALL MANAGER" prior to starting case study 6.  
