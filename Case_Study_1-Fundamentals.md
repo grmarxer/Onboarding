@@ -4,7 +4,10 @@
 
 ### Summary  
 
-In this case study 
+In this case study we will review basic networking, build out the students VM environment, and launch two Virtual Machines.  
+
+
+<br/>  
 
 __Note:__  Before proceeding from one step to the next the student should be able to explain, articulate, and configure everything within that step without assistance from the mentor  
 
