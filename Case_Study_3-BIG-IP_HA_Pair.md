@@ -114,3 +114,8 @@ __Helpful Links__
 
 7.	Demonstrate web pages created on Linux boxes using curl  
 
+<br/>  
+
+### Next step  
+
+[Case Study 4 - LTM VIPs and Pools](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_4-VIPs_and_Pools.md)  

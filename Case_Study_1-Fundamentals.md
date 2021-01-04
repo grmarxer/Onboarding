@@ -147,6 +147,12 @@ __Note:__ Student should complete this step completely on their own
 
  
 <br/>  
+
+### Next step  
+
+[Case Study 2 - Introduction to F5 Documentation and Product Information](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_2-F5_Documentation_and_Product_Information.md)  
+
+<br/>  
 <br/>  
 <br/>
 -----------------------------------------------------------------------  

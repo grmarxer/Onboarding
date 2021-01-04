@@ -45,6 +45,11 @@ In this case study we will introduce the student to the F5 product documentation
 
 10.  Introduce the student to [iHealth](https://ihealth.f5.com/)  
     
-
-  
+ 
 <br/>  
+
+<br/>  
+
+### Next step  
+
+[Case Study 3 - Instantiate Two BIG-IP's and put them in a HA Pair](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_3-BIG-IP_HA_Pair.md)  
