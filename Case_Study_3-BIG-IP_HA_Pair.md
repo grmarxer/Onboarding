@@ -16,7 +16,7 @@ Once the Case Study lab work is complete reinforce the learning using the sectio
 
 ### Lab Reference Architecture  
 
-![Case Study 1 Lab Diagram](https://github.com/grmarxer/private/blob/master/ASE_Onboarding/diagrams/CaseStudy1_diagram.png)  
+![Case Study 1 Lab Diagram](https://github.com/grmarxer/Onboarding/blob/master/diagrams/CaseStudy1_diagram.png)  
 
 <br/>  
 
