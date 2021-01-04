@@ -153,14 +153,3 @@ __Note:__ Student should complete this step completely on their own
 
 [Case Study 2 - Introduction to F5 Documentation and Product Information](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_2-F5_Documentation_and_Product_Information.md)  
 
-<br/>  
-<br/>  
-<br/>
------------------------------------------------------------------------  
-
-### backup notes  
-
-ip address best practices  
-naming best practices  
-Configure IPv4 and Ipv6  
-
