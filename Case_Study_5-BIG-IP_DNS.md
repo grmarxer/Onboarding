@@ -2,7 +2,6 @@
 <br/>  
 
 ## Case Study 5 - BIG-IP DNS  
-
 <br/>  
 
 ### Summary  
