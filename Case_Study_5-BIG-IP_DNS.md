@@ -30,20 +30,28 @@
         - Modify TTL’s to see how that impacts your client’s recursion.
         - What happens when the server you are testing to from your devices DNS cache goes down?  Do you immediately connect to the other www server?  
 
-3.	Review the various WIP settings, understand where health monitors are set and why
-•	In how many places can you put a monitor on GTM?  Where does it make the most sense for your environment?  What scenarios can you think of why you would set the monitors at different levels?  Would you use different monitors at each level?
-4.	What's the difference between adding a generic server and calling out LTM?
-5.	Create a number of bogus records in your DNS server
+3.	Review the various WIP settings, understand where health monitors are set and why  
+    - In how many places can you put a monitor on GTM?  Where does it make the most sense for your environment?  What scenarios can you think of why you would set the monitors at different levels?  Would you use different monitors at each level?  
+
+4.	What's the difference between adding a generic server and calling out LTM?  
+
+5.	Create a number of bogus records in your DNS server  
+
 6.	Configure DNS Express on GTM and import the DNS servers records into GTM.  
-•	What is DNS express, how does it work, why is it valuable?
+    - What is DNS express, how does it work, why is it valuable?  
+
 7.	Using DIG test DNS Express.  Who is returning the A record?  How do you know?  
-8.	Create a second GTM/DNS device. New public interface but use the same back end internal network as the first GTM.
-9.	Create a sync group between the two GTMs
-10.	Configure a WIP to return a CNAME rather than an A or AAAA record for a FQDN.  What is a cname, when would that be useful?
-•	What types of DNS records does GTM support?  What are there uses?
-•	For extra credit create a sub domain.  Ex.  Ask for lab.com, have GTM return a cname which is student.lab.com.  Have student.lab.com pass through GTM to your backend DNS server and respond with one of your www server’s IP’s
+
+8.	Create a second GTM/DNS device. New public interface but use the same back end internal network as the first GTM.  
+
+9.	Create a sync group between the two GTMs  
+
+10.	Configure a WIP to return a CNAME rather than an A or AAAA record for a FQDN.  What is a cname, when would that be useful?  
+    - What types of DNS records does GTM support?  What are there uses?  
+    - For extra credit create a sub domain.  Ex.  Ask for lab.com, have GTM return a cname which is student.lab.com.  Have student.lab.com pass through GTM to your backend DNS server and respond with one of your www server’s IP’s  
+
 11.	Configure GTM to resolve and cache.  
-•	Run tests from either your DNS server or another client using GTM as the DNS server. 
-o	Use DIG to look up FQDN's.  
-•	Where is the cache stored in GTM? Can you see the records? When do they expire?  What is the process of recursion?
-•	What is the advantage of having BIG-IP resolve and cache?
+    - Run tests from either your DNS server or another client using GTM as the DNS server.   
+        - Use DIG to look up FQDN's.  
+    - Where is the cache stored in GTM? Can you see the records? When do they expire?  What is the process of recursion?  
+    - What is the advantage of having BIG-IP resolve and cache?  
