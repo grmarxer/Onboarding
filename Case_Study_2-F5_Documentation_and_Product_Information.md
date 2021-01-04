@@ -57,9 +57,6 @@ In this case study we will introduce the student to the F5 product documentation
 12.  Educate student on how to use F5 Radar/SharePoint  
 
     
- 
-<br/>  
-
 <br/>  
 
 ### Next step  
