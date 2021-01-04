@@ -35,17 +35,27 @@ In this case study we will introduce the student to the F5 product documentation
 5. Enroll student with web support so they have the ability to open cases on line
     - Explain what a presales case is and how to open.  
 
-6. Introduce the student to federate.f5.com  
+6. Introduce the student to the different VPN options  
+    - federate.f5.com  
+    - VPN Edge Client  
+    - SSL VPN  
 
 7.  Show the student how to generate temporary licenses  
 
-8.  Show the student how to use TRON  
+8.  Show the student how to use TRON and Bugzilla
 
 9.  Walk the student through [dev/central](https://devcentral.f5.com)  
     - Create a devcentral account  
     - Introduce the student to the [iRule WIKI](https://clouddocs.f5.com/api/irules/)  
 
 10.  Introduce the student to [iHealth](https://ihealth.f5.com/)  
+
+11. Educate student on how to use LearnF5  
+    -	Resource for online training  
+    -	Resource for product, module, and code updates  
+
+12.  Educate student on how to use F5 Radar/SharePoint  
+
     
  
 <br/>  

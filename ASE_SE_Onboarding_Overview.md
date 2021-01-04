@@ -5,7 +5,7 @@
 This guide was developed to help onboard both ASE's and SE's into F5 and designed to fill in the 'gaps' from any previous F5 training the student has received.  The student should not attempt a case study specific to BIG-IP or a BIG-IP module until they have attended the F5 instructor led training on the subject.  
   
 
-#### There are six case studies in this guide:  
+### There are six case studies in this guide:  
 
 ##### Case Study 1 - Fundamentals  
 ##### Case Study 2 - F5 Documentation and Product Information  
