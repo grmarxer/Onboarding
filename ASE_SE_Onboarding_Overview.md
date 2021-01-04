@@ -8,7 +8,7 @@ This guide was developed to help onboard both ASE's and SE's into F5 and designe
 
 There are five case studies in this guide:  
 
-Case Study 1 - Fundamentals  
+##### Case Study 1 - Fundamentals  
 Case Study 2 - F5 Documentation and Product Information  
 Case Study 3 - Instantiate Two BIG-IP's and put them in a HA Pair  
 Case Study 4 - LTM VIPs and Pools  
