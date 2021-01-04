@@ -20,10 +20,11 @@ This guide was developed to help onboard both ASE's and SE's into F5 and designe
 - The student should complete "ADMINISTERING BIG-IP and CONFIGURING BIG-IP LTM: LOCAL TRAFFIC MANAGER" prior to starting case study 3 and 4.  
 - The student should complete "CONFIGURING BIG-IP DNS (FORMERLY GTM)" prior to starting case study 5.  
 - The student should complete "CONFIGURING BIG-IP AFM: ADVANCED FIREWALL MANAGER" prior to starting case study 6.  
-
+<br/>  
 
 __Note:__ Each case study above builds off the one before it, thus a student attempting to start at case study 4 will struggle as the components necessary for case study 4 were built in case studies one through three.  
 
+<br/>  
 
 __Case Study 1 - Fundamentals__ This case study helps educate the student on general networking and server OS/VM basics. It uses repetition to reinforce learning and requires the most support from the mentor.  In this case study there are several sections and it is critical that the student not move on from one section to the next until the current topic can be explained in detail.  The networking section of this case study uses the students home network as the reference architecture.   It is expected that the mentor will need to walk the student through each section of this case study doing a majority of the configuration with the student.  Once first pass is completed with the student, the student is then expected to destroy the contents of this case study and redo it completely on their own.    
 
