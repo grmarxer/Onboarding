@@ -41,14 +41,14 @@ __Helpful Links__
 <br/>  
 
 
-##### HTTP (Port 8080)  
+#### HTTP (Port 8080)  
 - Full proxy  
 - Keep source address  
 - Use priority groups to LB to one server only until it is down.  
 - HTTP Monitor with GET defined  
 - Assign two monitors to the pool and only fail when both monitors are down  
 
-##### HTTPS (Port 8081)
+#### HTTPS (Port 8081)
 - Full proxy  
 - SSL Offload (create a certificate)  
 - SNAT (automap)  
@@ -57,19 +57,19 @@ __Helpful Links__
 - HTTP Monitor without GET defined  
 - Shutdown web service on nodes, can you still ping VIP IP, what does the three-way handshake look like, is this expected?   
 
-##### SSH (Port 22)  
+#### SSH (Port 22)  
 - Full proxy  
 - No SNAT  
 - Round Robin  
 - TCP half-open Monitor  
 
-##### Wildcard listener (0.0.0.0/0)  
+#### Wildcard listener (0.0.0.0/0)  
 - Layer 4 only
 - No SNAT
 - No pool
 - Change the default GW on the node to something other than the BIG-IP and curl to that node IP. Before running that test clear the BIG-IP connection table (#tmsh clear sys connection) What happens and why?  Document findings using TCPDUMP  
 
-##### Route Domains   
+#### Route Domains   
 - Create route domain 10  
 - Copy the HTTP (port 8080) VIP above and put it in this route domain  
 - Attach it to the same pool as the VIP above (Pool to remain in RD 0)  
