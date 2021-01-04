@@ -31,6 +31,17 @@ __Case Study 2 - F5 Documentation and Product Information__  In addition to the 
 
 __Case Study 3 through 6__ builds on the F5 instructor led learning having the student configure, explain, and articulate the components of each case study.  For example success is not determined by configuring a VIP and having it go green, success is determined by the student articulating how a standard VIP TCP handshake completes (client side and server side), proving with TCPDUMP why a pool is green and how a pool member is selected and session persistence occurs.  Each case study is designed to make the student understand the basic building blocks of BIG-IP in detail and how each of those building blocks works from a TCPDUMP/tmos connection table perspective. These case studies should require less mentor support as the student should already have a general understanding from the instructor led training.  At the end of each of these case studies the mentor will work with the student to reinforce the learning by having the student articulate the "how and why" in detail.
 
+<br/>  
+
+### Recommended Software tools  
+
+-	Wireshark with F5 plugin enabled  
+-	Putty/mputty  
+-	Notepad++  
+-	SCP file transfer tool (winscp - windows, cyberduck -mac)  
+-	iRule Editor  
+-	ireasoning mib browser  
+-	postman  
 
 <br/>  
 

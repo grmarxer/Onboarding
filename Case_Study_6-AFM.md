@@ -5,11 +5,11 @@
 
 ### Summary  
 
-In this case study 
+In this case study the student will work with AFM creating rules in different contexts, logging, DDOS, and NAT.  This environment should be layered on top of the previous LTM configuration.  When complete the student should me able to walk the mentor through all of the features below and articulate the different traffic flows. 
+
 
 <br/>  
 
-** Incorporate this into your existing Case Study 3 environment
 1.	Demonstrate and articulate the difference between ADC mode and FW mode  
 
 2.	Articulate BIG-IP AFM Context Hierarchy  
