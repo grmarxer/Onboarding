@@ -97,3 +97,9 @@ __Helpful Links__
 - What happens with the SSH VIP when you get load balanced to the second node?  Why?  
 - Why is it important to have the GET defined in a HTTP monitor?  
 - Look at the BIG-IP connection table.  Articulate what you find (#tmsh show sys connection)  
+
+<br/>  
+
+### Next step  
+
+[Case Study 5 - BIG-IP DNS](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_5-BIG-IP_DNS.md)  
