@@ -3,8 +3,6 @@
 
 ## Case Study 1 - Fundamentals  
 
-<br/>    
-
 ### Summary  
 
 In this case study we will review basic networking, build out the students VM environment, and launch two Virtual Machines.  

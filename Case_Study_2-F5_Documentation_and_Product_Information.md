@@ -2,7 +2,6 @@
 <br/>  
 
 ## Case Study 2 - Introduction to F5 Documentation and Product Information  
-<br/>    
 
 ### Summary  
 

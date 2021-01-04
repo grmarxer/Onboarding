@@ -3,7 +3,6 @@
 
 ## Case Study 4 - LTM VIPs and Pools  
 
-<br/>  
 
 ### Summary  
 

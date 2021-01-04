@@ -3,8 +3,6 @@
 
 ## Case Study 3 - Instantiate Two BIG-IP's and put them in a HA Pair  
 
-<br/>  
-
 ### Summary  
 
 In this Case Study you will build out two BIG-IP's and put them in a HA pair.  The reference architecture has been illustrated below, you can use this architecture or create your own (IP's and naming).  The architecture below will be used in all subsequent Case Study's for consistency.  
