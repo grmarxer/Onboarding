@@ -4,7 +4,7 @@
 
 ### Summary  
 
-In this case study we will create several LTM VIPs and demonstrate load balancing within the ESXi environment using one linux client and two linux servers.  After completion the student should have a good understanding how each VIP works architecturally and where to apply them in a customer environment.  
+In this case study we will create several LTM VIPs and demonstrate load balancing within the ESXi environment using one linux client and two linux servers.  We also introduce route domains.  After completion the student should have a good understanding how each VIP works architecturally and where to apply them in a customer environment.  
 
 
 <br/>  
@@ -55,7 +55,7 @@ __Helpful Links__
 - Push client src address to the server in HTTP header  
 - Round robin  
 - HTTP Monitor without GET defined  
-- Shutdown web service on nodes, can you still ping VIP IP, what does the three-way handshake look like, is this expected?   
+
 
 #### SSH (Port 22)  
 - Full proxy  
@@ -85,7 +85,7 @@ __Helpful Links__
 - Articulate the TCP three-way handshake for a FASTL4 VIP? Use TCPDUMP to reinforce findings  
 - Articulate SNAT and where SNAT addresses get assigned? And in what order?  
 - Articulate the different profiles assigned to each VIP and why?  
-- Articulate Address/port translation settings on VIP advanced config?  
+- Articulate Address/port translation settings on VIP (advanced config)?  
 - Articulate MAC Masquerade and its significance?  
 - Articulate three-way handshake to a full proxy VIP when pool is down?  
 - Can you ping a full proxy VIP when the pool is down?  Articulate findings.  
