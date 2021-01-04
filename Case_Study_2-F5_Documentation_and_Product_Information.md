@@ -45,5 +45,6 @@ In this case study we will introduce the student to the F5 product documentation
 
 10.  Introduce the student to [iHealth](https://ihealth.f5.com/)  
     
-    
-    <br/>  
+
+  
+<br/>  
