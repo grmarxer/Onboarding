@@ -1,6 +1,5 @@
 ## F5 ASE and SE Onboarding
 
-<br/>  
 
 ### Overview  
 
