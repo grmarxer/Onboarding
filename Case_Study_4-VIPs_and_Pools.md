@@ -4,7 +4,9 @@
 
 ### Summary  
 
-In this case study we will create several LTM VIPs and demonstrate load balancing within the ESXi environment using one linux client and two linux servers.  We also introduce route domains.  After completion the student should have a good understanding how each VIP works architecturally and where to apply them in a customer environment.  
+In this case study we will create several LTM VIPs and demonstrate load balancing within the ESXi environment using one linux client and two linux servers.  We also introduce route domains.  
+
+After completion the student should have a good understanding how each VIP works architecturally and where to apply them in a customer environment.  
 
 
 <br/>  
