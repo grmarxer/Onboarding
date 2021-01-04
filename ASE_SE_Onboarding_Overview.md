@@ -8,14 +8,14 @@ This guide was developed to help onboard both ASE's and SE's into F5 and designe
 
 <br/>  
 
-#### There are five case studies in this guide:  
+##### There are five case studies in this guide:  
 
-##### Case Study 1 - Fundamentals  
-##### Case Study 2 - F5 Documentation and Product Information  
-##### Case Study 3 - Instantiate Two BIG-IP's and put them in a HA Pair  
-##### Case Study 4 - LTM VIPs and Pools  
-##### Case Study 5 - BIG-IP DNS  
-##### Case Study 6 - AFM  
+###### Case Study 1 - Fundamentals  
+###### Case Study 2 - F5 Documentation and Product Information  
+###### Case Study 3 - Instantiate Two BIG-IP's and put them in a HA Pair  
+###### Case Study 4 - LTM VIPs and Pools  
+###### Case Study 5 - BIG-IP DNS  
+###### Case Study 6 - AFM  
 
 <br/>  
 
