@@ -1,3 +1,6 @@
+(Previous Step: [Case Study 3 - Instantiate Two BIG-IP's and put them in a HA Pair](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_3-BIG-IP_HA_Pair.md))  
+<br/>  
+
 ## Case Study 4 - LTM VIPs and Pools  
 
 <br/>  
