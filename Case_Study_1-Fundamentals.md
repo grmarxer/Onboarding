@@ -10,7 +10,7 @@ In this case study we will review basic networking, build out the students VM en
 
 <br/>  
 
-__Note:__  Before proceeding from one step to the next the student should be able to explain, articulate, and configure everything within that step without assistance from the mentor  
+__Note:__  Before proceeding from one step to the next the student should be able to articulate and configure everything within that step without assistance from the mentor  
 
 __Note:__ ESXi is the hypervisor used in this example
 
@@ -19,7 +19,7 @@ __Note:__ ESXi is the hypervisor used in this example
 ## Understanding your home network  
 
 
-1. Diagram your home network, include connectivity (wired and wireless) and include the cable modem, and at least 1 PC.  
+1. Diagram your home network (wired and wireless) and include the cable modem, and at least 1 PC.  
     - Include device names, IP addressing, and routes    
     - For the router include:  
         - WAN and LAN IP addressing  
@@ -33,7 +33,7 @@ __Note:__ ESXi is the hypervisor used in this example
 
 3. Explain Layer 1 connectivity between devices  
 
-4. Explain IP addressing (WAN and LAN), where it comes from  
+4. Explain IP addressing (WAN and LAN) and where it comes from  
     - Develop a IP scheme and DHCP scope for your home taking into consideration your lab  
 
 5. Explain difference between hub, bridge, and switch in relation to your home network  
@@ -113,10 +113,10 @@ __Note:__ Each instance should be configured to talk to each other over all netw
 9.  Using tcpdump verify connectivity over each interface  
     - [An introduction to using tcpdump at the Linux command line](https://opensource.com/article/18/10/introduction-tcpdump)  
     - [Man page of TCPDUMP](https://www.tcpdump.org/manpages/tcpdump.1.html)  
-        - Have the student ping between instances and verify connectivity in the tcpdump beginning with the ARP  
+        - Have the student ping between instances and verify connectivity in the tcpdump trace beginning with the ARP  
         - Review ARP table  
 
-10.  Have student change the vswitch attached to the non management interfaces and note results  
+10.  Have the student change the vswitch attached to the non management interfaces and note results  
 
 11.  Have the student modify the non-management interface IP addresses using the CLI  
         - Verify connectivity  
