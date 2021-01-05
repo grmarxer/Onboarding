@@ -56,7 +56,7 @@ __Helpful Links__
 - Full proxy  
 - SSL Offload (create a certificate)  
 - SNAT (automap)  
-- Push client src address to the server in HTTP header  
+- Push client src address to the server in a HTTP header  
 - Round robin  
 - HTTP Monitor without GET defined  
 
@@ -71,7 +71,7 @@ __Helpful Links__
 - Layer 4 only
 - No SNAT
 - No pool
-- Change the default GW on the node to something other than the BIG-IP and curl to that node IP. Before running that test clear the BIG-IP connection table (#tmsh clear sys connection) What happens and why?  Document findings using TCPDUMP  
+- Change the default GW on the node to something other than the BIG-IP and curl to a node IP. Before running the test clear the BIG-IP connection table (#tmsh clear sys connection). What happens and why?  Document findings using TCPDUMP  
 
 #### Route Domains   
 - Create route domain 10  
@@ -95,7 +95,7 @@ __Helpful Links__
 - Can you ping a full proxy VIP when the pool is down?  Articulate findings.  
 - What happens with the SSH VIP when you get load balanced to the second node?  Why?  
 - Why is it important to have the GET defined in a HTTP monitor?  
-- Look at the BIG-IP connection table.  Articulate what you find (#tmsh show sys connection)  
+- Look at the BIG-IP connection table.  Articulate what you see (#tmsh show sys connection)  
 
 <br/>  
 
