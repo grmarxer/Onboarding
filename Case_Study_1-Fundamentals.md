@@ -137,6 +137,9 @@ __Note:__ Each instance should be configured to talk to each other over all netw
             - Did it change?  
             - Are the routes correct?  
 
+15. Create a basic webpage of each of the two instances  
+    - Demonstrate the web pages created above using curl  
+
 
 <br/>  
 

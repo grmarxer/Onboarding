@@ -32,7 +32,7 @@ Determine what license to generate and why, discuss the licensing nomenclature
 
 
 Determine what BIG-IP Image (version and size) to use and why  
-   - Explain how to navigate and the contents of https://downloads.f5.com/  
+   - Explain how to navigate the contents of https://downloads.f5.com/  
    - Review and bookmark the following knowledge articles   
        - [K14946: Overview of BIG-IP VE image sizes](https://support.f5.com/csp/article/K14946)  
        - [BIG-IP VE Supported Platforms](https://clouddocs.f5.com/cloud/public/v1/matrix.html)  
@@ -43,18 +43,18 @@ Determine what BIG-IP Image (version and size) to use and why
 
 <br/>  
 
-1. Use the documentation to deploy two BIG-IP ESXi instances  
+1. Use the documentation to deploy two BIG-IP ESXi Guest instances  
     - [VMware ESXI and vCloud Director Knowledge Center](https://support.f5.com/csp/knowledge-center/cloud/Virtual%20Editions/VMware%20ESXI%20and%20vCloud%20Director)  
     - Configure 2 vcpu's/4 GB RAM  
     - Assign the correct vswitches to the BIG-IP Mgmt port and TMM interfaces 1.1-1.3  
         - Connect the BIG-IP mgmt. interface to your home network  
         - Assign TMM interfaces to the vswitches that you plan to use for internal, external, and HA
 
-2. Use the ESXi instance console to configure the mgmt port settings  
+2. Use the ESXi instance console to configure the BIG-IP mgmt port settings  
 
 3. License the BIG-IP, configure hostname, passwords, and timezone  
 
-4. Configure DNS and NTP  
+4. Configure DNS and NTP, verify both are working as expected  
 
 5. Walk through the instance settings on the ESXi host  
 
@@ -67,7 +67,7 @@ Determine what BIG-IP Image (version and size) to use and why
 
 __Helpful Links__  
    - Use the LTM documentation on [support.f5.com](https://support.f5.com) if you have questions on self-ips’ vlans’ etc.  
-   - This will help with building the BIG-IP internal and external networks - [Manual : BIG-IP System: Initial Configuration](https://techdocs.f5.com/en-us/bigip-15-1-0/big-ip-system-initial-configuration.html)  
+   - This link will help with building the BIG-IP internal and external networks - [Manual : BIG-IP System: Initial Configuration](https://techdocs.f5.com/en-us/bigip-15-1-0/big-ip-system-initial-configuration.html)  
    - This link will help build the HA Pair.  [Manual : BIG-IP Device Service Clustering: Administration](https://techdocs.f5.com/en-us/bigip-14-1-0/big-ip-device-service-clustering-administration-14-1-0.html)  
 
 <br/>  
@@ -85,7 +85,7 @@ __Helpful Links__
 
 5.	For failover use the mgmt, HA, and Internal interface.  __Note:__ Configure network failover  
 
-6.	Set the external self-IP port lockdown to allow none  
+6.	Set the external self-IPs' port lockdown to allow none  
 
 7.	Set the HA interface self-ip port lockdown to allow all  
 
@@ -110,9 +110,8 @@ __Helpful Links__
 
 5.	Articulate the ports required for HA  
 
-6.	Articulate what protocol is used to form the HA Pair    
+6.	Articulate what protocol is used to form the HA Pair and why NTP is required    
 
-7.	Demonstrate web pages created on Linux boxes using curl  
 
 <br/>  
 
