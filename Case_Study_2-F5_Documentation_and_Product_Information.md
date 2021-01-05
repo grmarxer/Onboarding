@@ -15,7 +15,7 @@ In this case study we will introduce the student to the F5 product documentation
         - As an assignment ask the student to find specific information in the documentation and report their findings  
     - Articulate the differences between product documentation, knowledge articles, and the information that can be found on DevCentral  
 
-2. Review the hardware datasheets and point out relevant information such as the number of 1/10/40G ports or the number of power supplies that are included.  
+2. Review the hardware datasheets and point out relevant information such as the number of 1/10/40G ports and the number of power supplies that are included.  
     - Review and bookmark the following knowledge articles 
         - [K3225: F5 End of Life policy](https://support.f5.com/csp/article/K3225) 
         - [K4309: F5 platform lifecycle support policy](https://support.f5.com/csp/article/K4309)  
@@ -48,7 +48,7 @@ In this case study we will introduce the student to the F5 product documentation
     - Create a devcentral account  
     - Introduce the student to the [iRule WIKI](https://clouddocs.f5.com/api/irules/)  
 
-10.  Introduce the student to [iHealth](https://ihealth.f5.com/)  
+10. Introduce the student to [iHealth](https://ihealth.f5.com/)  
 
 11. Educate student on how to use LearnF5  
     -	Resource for online training  
