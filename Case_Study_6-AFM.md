@@ -5,7 +5,7 @@
 
 ### Summary  
 
-In this case study the student will work with AFM creating rules in different contexts, logging, DDOS, and NAT.  This environment should be layered on top of the previous LTM configuration.  When complete the student should me able to walk the mentor through all of the features below and articulate the different traffic flows. 
+In this case study the student will work with AFM creating rules in different contexts, enable logging, DDOS, and NAT.  This environment should be layered on top of the previous LTM configuration.  When complete the student should me able to walk the mentor through all of the features below and articulate the different traffic flows. 
 
 
 <br/>  
