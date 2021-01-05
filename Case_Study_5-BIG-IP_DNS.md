@@ -14,7 +14,7 @@ In this case study the student will create a DNS environment and integrate it wi
 2.	Create a GTM/DNS instance 
     - GTM has a public interface where it gets DNS requests and a private interface which leads to the backend DNS server  
     - Configure a WIP on GTM that points to one of your existing www servers.    
-    - Configure the GTM listener.  What is the role and significance of the listener from  the clients perspective?  
+    - Configure the GTM listener.  What is the role and significance of the listener from the clients perspective?  
     - Configure a DNS entry on the DNS server for the other www server that is not a WIP in GTM  
     - At least one www server must sit behind a LTM the other can just be a generic server.  
         - What is the difference between adding a generic server and a LTM?  
@@ -22,12 +22,12 @@ In this case study the student will create a DNS environment and integrate it wi
     - Add the second www server to the WIP.  Play with the options available for distributing traffic to the two different servers.  Round robin and Topology are the two most common  
         - Add the topology DB to GTM/DNS
         - Modify TTL’s to see how that impacts your client’s recursion.
-        - What happens when the server you are testing to from your devices DNS cache goes down?  Do you immediately connect to the other www server?  
+        - What happens when the server you are testing to goes down?  What is the impact of your test clients DNS cache?  Do you immediately connect to the other www server?  
 
 3.	Review the various WIP settings, understand where health monitors are set and why  
-    - In how many places can you put a monitor on GTM?  Where does it make the most sense for your environment?  What scenarios can you think of why you would set the monitors at different levels?  Would you use different monitors at each level?  
+    - In how many places can you put a monitor on GTM?  Where does it make the most sense for your environment?  In what scenarios would you configure monitors at the different levels and why?    
 
-4.	What's the difference between adding a generic server and calling out LTM?  
+4.	What's the difference between adding a generic server and a BIG-IP LTM?  
 
 5.	Create a number of bogus records in your DNS server  
 
