@@ -33,7 +33,7 @@ __Case Study 3 through 6__ builds on top of the F5 instructor led learning; havi
 
 <br/>  
 
-### Recommended Software tools  
+### Recommended Software tools in Addition to the Standard F5 IT Build
 
 -	Wireshark with F5 plugin enabled  
 -	Putty/mputty  
