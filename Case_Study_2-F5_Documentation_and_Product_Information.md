@@ -34,6 +34,7 @@ In this case study we will introduce the student to the F5 product documentation
 
 5. Enroll student with web support so they have the ability to open cases on line
     - Explain what a presales case is and how to open.  
+    - [K2633: Instructions for submitting a support case to F5](https://support.f5.com/csp/article/K2633)  
 
 6. Introduce the student to the different VPN options  
     - federate.f5.com  
@@ -49,6 +50,9 @@ In this case study we will introduce the student to the F5 product documentation
     - Introduce the student to the [iRule WIKI](https://clouddocs.f5.com/api/irules/)  
 
 10. Introduce the student to [iHealth](https://ihealth.f5.com/)  
+    - [K12878: Generating diagnostic data using the qkview utility](https://support.f5.com/csp/article/K12878)  
+    - [K23928121: Overview of qkview command-line options](https://support.f5.com/csp/article/K23928121)  
+
 
 11. Educate student on how to use LearnF5  
     -	Resource for online training  
