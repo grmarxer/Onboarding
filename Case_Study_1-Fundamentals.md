@@ -72,16 +72,18 @@ __Note:__ ESXi is the hypervisor used in this example
     - Discuss different RAID options and the best choice for this server  
     - Discuss what a virtual drive is and why it is needed  
 
-4. Download the latest version of ESXi compatible with this server  
+4. Discuss CPU Cores, hyperthreading, and NUMA boundaries
 
-5. Install and configure the hypervisor  
+5. Download the latest version of ESXi compatible with this server  
+
+6. Install and configure the hypervisor  
 
     - Configure management IP, DNS, and NTP  
     - Build out six port-groups/vswitches  
         - ensure the default vmnetwork port-group is attached to the physical adapter connecting to the home network.  This will be used for management connectivity to the different vm instances/guests  
         - Develop IP addressing scheme for server port-group/vswitch networks  
 
-6. Review what a vswitch is and how it is different/similar to a physical switch  
+7. Review what a vswitch is and how it is different/similar to a physical switch  
 
 <br/>   
 
