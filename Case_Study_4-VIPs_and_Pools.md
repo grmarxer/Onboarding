@@ -93,7 +93,7 @@ __Helpful Links__
 - Articulate MAC Masquerade and its significance?  
 - Articulate three-way handshake to a full proxy VIP when pool is down?  
 - Can you ping a full proxy VIP when the pool is down?  Articulate findings.  
-- What happens with the SSH VIP when you get load balanced to the second node?  Why?  
+- What happens with the SSH VIP when you get load balanced to the second node?  Why did it fail?  
 - Why is it important to have the GET defined in a HTTP monitor?  
 - Look at the BIG-IP connection table.  Articulate what you see (#tmsh show sys connection)  
 
