@@ -41,6 +41,12 @@ __Helpful Links__
    - [K55185917: Overview of BIG-IP virtual server types (12.x - 15.x)](https://support.f5.com/csp/article/K55185917)  
    - [K8082: Overview of TCP connection setup for BIG-IP LTM virtual server types](https://support.f5.com/csp/article/K8082)   
    - [K411: Overview of packet tracing with the tcpdump utility](https://support.f5.com/csp/article/K411)  
+   - [K40033505: Explaining the output of tmsh show sys connection](https://support.f5.com/csp/article/K40033505)  
+   - [K53851362: Displaying and deleting BIG-IP connection table entries from the command line](https://support.f5.com/csp/article/K53851362)  
+
+<br/>  
+
+__Note:__ We will use this case study to become familiar with the BIG-IP connection table.  The BIG-IP connection table contains information about all the sessions that are currently established on BIG-IP system.  After successfully passing traffic through each VIP below, review the connection table and identify the VIP specific entries.  
 
 <br/>  
 
@@ -71,7 +77,7 @@ __Helpful Links__
 - Layer 4 only
 - No SNAT
 - No pool
-- Change the default GW on the node to something other than the BIG-IP and curl to a node IP. Before running the test clear the BIG-IP connection table (#tmsh clear sys connection). What happens and why?  Document findings using TCPDUMP  
+- Change the default GW on a specific node to something other than the BIG-IP and curl that specific node's IP from your client.  What happens and why?  Document findings using TCPDUMP.  
 
 #### Route Domains   
 - Create route domain 10  
