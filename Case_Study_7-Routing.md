@@ -44,4 +44,4 @@ In this case study we use static routes and various catchall wildcard VIPs to ro
 - Client 1 NIC 1 can ping Client 2 NIC 2 (VLAN 1 to VLAN 2 to VLAN 3 to VLAN 4)  
 - Client 2 NIC 2 can ping Client 1 NIC 2 (VLAN 5 to VLAN 3 to VLAN 2 to VLAN 6)  
 
-__Note:__  You will be expected to use tcpdump to show that the traffic from client 1 to client 2 and from client 2 to client 1 is traversing the correct VLANs at each hop.  
+__Note:__  You will be expected to use tcpdump to show that the traffic from client 1 to client 2 and from client 2 to client 1 is traversing the correct interfaces at each hop.  
