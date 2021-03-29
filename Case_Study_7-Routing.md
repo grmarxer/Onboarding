@@ -1,5 +1,3 @@
-(Previous Step: [Case Study 5 - BIG-IP DNS](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_5-BIG-IP_DNS.md))  
-<br/>  
 
 ## Case Study 7 - Routing 
 
@@ -27,7 +25,7 @@ In this case study we use static routes and various catchall wildcard VIPs to ro
 
     - A total of 4 VIPs is required for the complete solution. The VIPs on BIG-IP 1 and BIG-IP 3 must be VLAN specific.  
 
-- No default routes can be used for routing traffic from client 1 to client2 or client 2 to client 1  
+- No default routes can be used for routing traffic from client 1 to client 2 or client 2 to client 1  
 
 - Client 1 NIC 1 must not be able to ping Client 2 NIC 2  
 
