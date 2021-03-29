@@ -28,7 +28,9 @@ In this case study we use static routes and various catchall wildcard VIPs to ro
 - Client 2 NIC 2 must not be able to ping Client 1 NIC 1    
 - Client 2 NIC 1 must not be able to ping Client 1 NIC 1  
 
-### This Case Study is complete when  
+<br/>  
+
+### This Case Study is complete when...  
 
 - Client 1 NIC 1 can Ping Client 2 NIC 2 (VLAN 1 to VLAN 2 to VLAN 3 to VLAN 4)  
 - Client 2 NIC 2 can Ping Client 1 NIC 2 (VLAN 5 to VLAN 3 to VLAN 2 to VLAN 6)  
