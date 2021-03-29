@@ -10,6 +10,7 @@ In this case study we use static routes and various catchall wildcard VIPs to ro
 <br/>  
 
 ### Lab Reference Architecture  
+<br/>  
 
 ![Case Study Routing Lab Diagram](https://github.com/grmarxer/Onboarding/blob/master/diagrams/case_study_routing.png)  
 
