@@ -20,7 +20,6 @@ In this case study we use static routes and various catchall wildcard VIPs to ro
 - You must use the IP addressing outlined in the diagram.  
 
 - Only use catchall wildcard fastl4 VIPs with no pools.  
-
     - Use the minimum number of VIPs possible to complete the solution.  
     - The VIPs on BIG-IP 1 and BIG-IP 3 must be VLAN specific.  
 
