@@ -23,6 +23,8 @@ In this case study we use static routes and various catchall wildcard VIPs to ro
     - Use the minimum number of VIPs possible to complete the solution.  
     - The VIPs on BIG-IP 1 and BIG-IP 3 must be VLAN specific.  
 
+- No SNAT  
+
 - No default routes can be used on either the clients or the BIG-IPs for routing traffic from client 1 to client 2
 
 - No firewall rules can be used, all tasks must be completed in this case study using LTM only, static routes, and fastl4 VIPs
