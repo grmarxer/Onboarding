@@ -5,7 +5,7 @@
 This guide was developed to help onboard both ASE's and SE's into F5 and designed to fill in the 'gaps' from any previous F5 training the student has received.  The student should not attempt a case study specific to BIG-IP or a BIG-IP module until they have attended the F5 instructor led training on the subject.  
   
 
-### There are six case studies in this guide:  
+### There are seven case studies in this guide:  
 
 ##### Case Study 1 - Fundamentals  
 ##### Case Study 2 - F5 Documentation and Product Information  
@@ -13,6 +13,7 @@ This guide was developed to help onboard both ASE's and SE's into F5 and designe
 ##### Case Study 4 - LTM VIPs and Pools  
 ##### Case Study 5 - BIG-IP DNS  
 ##### Case Study 6 - AFM  
+##### Case Study 7 - Routing
 
 <br/>  
 
@@ -29,7 +30,9 @@ __Case Study 1 - Fundamentals__ This case study helps educate the student on gen
 
 __Case Study 2 - F5 Documentation and Product Information__  In addition to hands on learning, it is critical that the student learn how to navigate the F5 documentation and tools they will use to support their customers.  This includes support.f5.com, knowledge articles, DevCentral, tron, pre-sales cases, licensing, iHealth, etc.  
 
-__Case Study 3 through 6__ builds on top of the F5 instructor led learning; having the student configure, explain, and articulate the components of each case study.  Success is not determined by configuring a VIP and having it go green, success is determined by articulating how a standard VIP TCP handshake completes (client side and server side) using TCPDUMP, why the pool is green, how a pool member is selected and session persistence occurs.  Each case study is designed to teach the student the basic building blocks of BIG-IP, in detail, and how each of those building blocks works from a TCPDUMP/tmos connection table perspective. These case studies should require less mentor support as the student should already have a general understanding from the instructor led training.  At the end of each of these case studies the mentor will work with the student to reinforce the learning by having the student articulate the "how and why" in detail.
+__Case Study 3 through 6__ builds on top of the F5 instructor led learning; having the student configure, explain, and articulate the components of each case study.  Success is not determined by configuring a VIP and having it go green, success is determined by articulating how a standard VIP TCP handshake completes (client side and server side) using TCPDUMP, why the pool is green, how a pool member is selected and session persistence occurs.  Each case study is designed to teach the student the basic building blocks of BIG-IP, in detail, and how each of those building blocks works from a TCPDUMP/tmos connection table perspective. These case studies should require less mentor support as the student should already have a general understanding from the instructor led training.  At the end of each of these case studies the mentor will work with the student to reinforce the learning by having the student articulate the "how and why" in detail.  
+
+__Case Study 7__  Was built to help students new to static routing.  It also reinforces VIP learning from the LTM Instructor led course.  This case study can be completed anytime after completing the LTM instructor led course.
 
 <br/>  
 
