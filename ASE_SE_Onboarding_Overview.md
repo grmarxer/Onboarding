@@ -36,6 +36,10 @@ __Case Study 7 - Routing__  Was built to help students new to static routing.  I
 
 <br/>  
 
+----
+
+<br/>  
+
 ### Recommended Software tools in Addition to the Standard F5 IT Build
 
 -	Wireshark with F5 plugin enabled  
@@ -59,6 +63,8 @@ __Case Study 7 - Routing__  Was built to help students new to static routing.  I
 ----
 
 ### Case Studies  
+
+<br/>  
 
 [Case Study 1 - Fundamentals](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_1-Fundamentals.md)  
 
