@@ -38,9 +38,7 @@ __Case Study 5 - Routing__  Was built to help students new to static routing.  I
 
 ----
 
-<br/>  
-
-### Recommended Software tools in Addition to the Standard F5 IT Build
+### Recommended software and tools in addition to the standard F5 IT build
 
 -	Wireshark with F5 plugin enabled  
 -	Putty/mputty  
