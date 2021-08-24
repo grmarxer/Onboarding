@@ -61,7 +61,6 @@ __Case Study 5 - Routing__  - Was built to help students new to static routing. 
 
 ### Case Studies  
 
-<br/>  
 
 [Case Study 1 - Fundamentals](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_1-Fundamentals.md)  
 
