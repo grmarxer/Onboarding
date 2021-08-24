@@ -1,4 +1,4 @@
-(Previous Step: [Case Study 4 - LTM VIPs and Pools](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_4-VIPs_and_Pools.md))  
+(Previous Step: [Case Study 5 - Routing](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_5-Routing.md))  
 <br/>  
 
 ## Case Study 6 - BIG-IP DNS  
@@ -53,4 +53,4 @@ In this case study the student will create a DNS environment and integrate it wi
 
 ### Next step  
 
-[Case Study 6 - AFM](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_6-AFM.md)  
+[Case Study 7 - AFM](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_7-AFM.md)  

@@ -1,4 +1,4 @@
-(Previous Step: [Case Study 3 - Instantiate Two BIG-IP's and put them in a HA Pair](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_3-BIG-IP_HA_Pair.md))  
+(Previous Step: [Case Study 3 - Instantiate Two BIG-IP's and put them in a HA Pair](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_3-BIG-IP_HA_Pair.md))  
 <br/>  
 
 ## Case Study 4 - LTM VIPs and Pools  
@@ -107,4 +107,4 @@ __Note:__ We will use this case study to become familiar with the BIG-IP connect
 
 ### Next step  
 
-[Case Study 5 - BIG-IP DNS](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_5-BIG-IP_DNS.md)  
+[Case Study 5 - BIG-IP DNS](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_5-BIG-IP_DNS.md)  

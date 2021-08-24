@@ -1,4 +1,7 @@
 
+(Previous Step: [Case Study 4 - LTM VIPs and Pools](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_4-VIPs_and_Pools.md))  
+<br/>  
+
 ## Case Study 5 - Routing 
 
 ### Summary  
@@ -38,3 +41,9 @@ In this case study we use static routes and various catchall wildcard VIPs to ro
 - Client 1 NIC 1 can ping Client 2 NIC 1 (VLAN 1 to VLAN 2 to VLAN 3 to VLAN 4)  
 
 __Note:__  You will be expected to use tcpdump to show the traffic traversing each interface (request/reply) from client 1 to client 2.  
+
+<br/> 
+
+### Next step  
+
+[Case Study 6 - BIG-IP DNS](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_6-BIG-IP_DNS.md)  

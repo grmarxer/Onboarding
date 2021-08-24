@@ -1,4 +1,4 @@
-(Previous Step: [Case Study 5 - BIG-IP DNS](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_5-BIG-IP_DNS.md))  
+(Previous Step: [Case Study 6 - BIG-IP DNS](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_6-BIG-IP_DNS.md))  
 <br/>  
 
 ## Case Study 7 - AFM 

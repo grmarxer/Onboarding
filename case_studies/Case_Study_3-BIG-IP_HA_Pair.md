@@ -1,4 +1,4 @@
-(Previous Step: [Case Study 2 - Introduction to F5 Documentation and Product Information](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_2-F5_Documentation_and_Product_Information.md))  
+(Previous Step: [Case Study 2 - Introduction to F5 Documentation and Product Information](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_2-F5_Documentation_and_Product_Information.md))  
 <br/>  
 
 ## Case Study 3 - Instantiate Two BIG-IP's and put them in a HA Pair  
@@ -117,4 +117,4 @@ __Helpful Links__
 
 ### Next step  
 
-[Case Study 4 - LTM VIPs and Pools](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_4-VIPs_and_Pools.md)  
+[Case Study 4 - LTM VIPs and Pools](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_4-VIPs_and_Pools.md)  

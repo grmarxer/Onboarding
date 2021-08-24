@@ -1,4 +1,4 @@
-(Previous Step: [Case Study 1 - Fundamentals](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_1-Fundamentals.md))  
+(Previous Step: [Case Study 1 - Fundamentals](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_1-Fundamentals.md))  
 <br/>  
 
 ## Case Study 2 - Introduction to F5 Documentation and Product Information  
@@ -65,4 +65,4 @@ In this case study we will introduce the student to the F5 product documentation
 
 ### Next step  
 
-[Case Study 3 - Instantiate Two BIG-IP's and put them in a HA Pair](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_3-BIG-IP_HA_Pair.md)  
+[Case Study 3 - Instantiate Two BIG-IP's and put them in a HA Pair](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_3-BIG-IP_HA_Pair.md)  
