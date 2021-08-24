@@ -44,7 +44,6 @@ __Case Study 5 - Routing__  Was built to help students new to static routing.  I
 -	Putty/mputty  
 -	Notepad++  
 -	SCP file transfer tool (winscp - windows, cyberduck -mac)  
--	iRule Editor  
 -	ireasoning mib browser  
 -	postman  
 
