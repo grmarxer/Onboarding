@@ -5,7 +5,7 @@
 
 ### Summary  
 
-In this case study the student will create a DNS environment and integrate it with BIG-IP DNS and LTM.  This environment should be built on top of the previous case study.  When complete the student should me able to walk the mentor through the process of DNS recursion from the test client’s perspective and articulate all of the features below.
+In this case study the student will create a DNS environment and integrate it with BIG-IP DNS and LTM.  This environment should be built on top of the previous case study.  When complete the student should be able to walk the mentor through the process of DNS recursion from the test client’s perspective and articulate all of the features below.
 
 <br/>  
 
