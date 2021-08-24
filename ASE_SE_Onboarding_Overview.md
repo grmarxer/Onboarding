@@ -11,9 +11,9 @@ This guide was developed to help onboard both ASE's and SE's into F5 and designe
 ##### Case Study 2 - F5 Documentation and Product Information  
 ##### Case Study 3 - Instantiate Two BIG-IP's and put them in a HA Pair  
 ##### Case Study 4 - LTM VIPs and Pools  
-##### Case Study 5 - BIG-IP DNS  
-##### Case Study 6 - AFM  
-##### Case Study 7 - Routing
+##### Case Study 5 - Routing  
+##### Case Study 6 - BIG-IP DNS  
+##### Case Study 7 - AFM  
 
 <br/>  
 
@@ -56,9 +56,23 @@ __Case Study 7 - Routing__  Was built to help students new to static routing.  I
 
 <br/>  
 
-### Next step  
+----
+
+### Case Studies  
 
 [Case Study 1 - Fundamentals](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_1-Fundamentals.md)  
+
+[Case Study 2 - Fundamentals](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_1-Fundamentals.md)  
+
+[Case Study 3 - Fundamentals](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_1-Fundamentals.md)  
+
+[Case Study 4 - Fundamentals](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_1-Fundamentals.md)  
+
+[Case Study 5 - Fundamentals](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_1-Fundamentals.md)  
+
+[Case Study 6 - Fundamentals](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_1-Fundamentals.md)  
+
+[Case Study 7 - Fundamentals](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_1-Fundamentals.md)  
 
 
 
