@@ -1,7 +1,7 @@
 (Previous Step: [Case Study 4 - LTM VIPs and Pools](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_4-VIPs_and_Pools.md))  
 <br/>  
 
-## Case Study 5 - BIG-IP DNS  
+## Case Study 6 - BIG-IP DNS  
 
 ### Summary  
 
