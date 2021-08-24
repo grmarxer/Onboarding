@@ -18,8 +18,8 @@ This guide was developed to help onboard both ASE's and SE's into F5 and designe
 <br/>  
 
 - The student should complete "ADMINISTERING BIG-IP and CONFIGURING BIG-IP LTM: LOCAL TRAFFIC MANAGER" prior to starting case study 3 and 4.  
-- The student should complete "CONFIGURING BIG-IP DNS (FORMERLY GTM)" prior to starting case study 5.  
-- The student should complete "CONFIGURING BIG-IP AFM: ADVANCED FIREWALL MANAGER" prior to starting case study 6.  
+- The student should complete "CONFIGURING BIG-IP DNS (FORMERLY GTM)" prior to starting case study 6.  
+- The student should complete "CONFIGURING BIG-IP AFM: ADVANCED FIREWALL MANAGER" prior to starting case study 7.  
 <br/>  
 
 __Note:__ Each case study above builds off the one before it, thus a student attempting to start at case study 4 will struggle as the components necessary for case study 4 were built in case studies one through three.  
