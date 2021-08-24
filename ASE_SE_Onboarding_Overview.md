@@ -60,19 +60,19 @@ __Case Study 7 - Routing__  Was built to help students new to static routing.  I
 
 ### Case Studies  
 
-[Case Study 1 - Fundamentals](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_1-Fundamentals.md)  
+[Case Study 1 - Fundamentals](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_1-Fundamentals.md)  
 
-[Case Study 2 - Fundamentals](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_1-Fundamentals.md)  
+[Case Study 2 - Introduction to F5 Documentation and Product Information](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_2-F5_Documentation_and_Product_Information.md)  
 
-[Case Study 3 - Fundamentals](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_1-Fundamentals.md)  
+[Case Study 3 - Instantiate Two BIG-IP's and put them in a HA Pair](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_3-BIG-IP_HA_Pair.md)  
 
-[Case Study 4 - Fundamentals](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_1-Fundamentals.md)  
+[Case Study 4 - LTM VIPs and Pools](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_4-VIPs_and_Pools.md)  
 
-[Case Study 5 - Fundamentals](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_1-Fundamentals.md)  
+[Case Study 5 - Routing](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_5-Routing.md)  
 
-[Case Study 6 - Fundamentals](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_1-Fundamentals.md)  
+[Case Study 6 - BIG-IP DNS](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_6-BIG-IP_DNS.md)  
 
-[Case Study 7 - Fundamentals](https://github.com/grmarxer/Onboarding/blob/master/Case_Study_1-Fundamentals.md)  
+[Case Study 7 - AFM](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_7-AFM.md)  
 
 
 
