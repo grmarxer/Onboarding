@@ -107,4 +107,4 @@ __Note:__ We will use this case study to become familiar with the BIG-IP connect
 
 ### Next step  
 
-[Case Study 5 - BIG-IP DNS](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_5-BIG-IP_DNS.md)  
+[Case Study 5 - Routing](https://github.com/grmarxer/Onboarding/blob/master/case_studies/Case_Study_5-Routing.md)  
