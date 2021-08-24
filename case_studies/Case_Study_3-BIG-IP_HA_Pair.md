@@ -5,7 +5,7 @@
 
 ### Summary  
 
-In this Case Study you will build out two BIG-IP's and put them in a HA pair.  The reference architecture has been illustrated below, you can use this architecture or create your own (IP's and naming).  The architecture below will be used in all subsequent Case Study's for consistency.  
+In this Case Study you will build out two BIG-IP's and put them in a HA pair.  The reference architecture has been illustrated below, you can use this architecture or create your own (IP's and naming).  The architecture below will be used in all subsequent Case Studies for consistency.  
 
 The student should complete this Case Study on their own using the available documentation and only reach out to the mentor with specific questions.  
 
